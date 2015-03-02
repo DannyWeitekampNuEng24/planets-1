@@ -6,3 +6,4 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 We removed the conflict on this line.
 And They all lived happily ever after
+Mars is going to be a great adventure!
