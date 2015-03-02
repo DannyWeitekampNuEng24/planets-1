@@ -1,0 +1,5 @@
+I learned that from a fork you can incorperate upstream changes using 
+fetch.
+Next time you do this lesson it might be cool to have a script running 
+somewhere that makes changes and commits them automatically every hour 
+so that we don't need to bug you for changes. 
